@@ -1,4 +1,4 @@
-#To-Do List App (HTML, CSS, JavaScript)
+# To-Do List App (HTML, CSS, JavaScript)
 
 A simple and responsive To-Do List web app built using HTML, CSS, and JavaScript.
 This project helps users manage daily tasks — they can add, delete, and mark tasks as completed easily.
